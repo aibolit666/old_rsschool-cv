@@ -8,10 +8,12 @@
  
  I want to become a professional web developer, help people translate their ideas into a working product. My strengths lie in the constant learning of new and improving my previous knowledge.
 
+
 **Skills:**
 *Hard*  - Python, JS, HTML, CSS, GIT, Figma
 
 *Soft*  - responsibility, honesty, communication.
+
 
 **Code examples**
 1. JavaScript
@@ -45,6 +47,7 @@ https://github.com/aibolit666/my-app
 
 https://github.com/aibolit666/SpaceGame
 
+
 **Experience**
 JavaScript / Front-end course from The Rolling Scopes community *(in the process)*
 
@@ -52,8 +55,10 @@ Stepik - Python Programming. Stepik - Python: Basics and Applications.
 
 JetBrains Academy - Python for Beginners. Codecademy - Learn JavaScript.
 
+
 **Education**
 Saint-Petersburg University of Culture and Arts '13, Management of organizations.
+
 
 **English** 
 A2+, independent study.
